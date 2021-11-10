@@ -4,7 +4,7 @@ Obs.:O swift utiliza o LET como constante.
 ex:
 */ 
 let explicacao = """
-  Para declarar uma constante basta utlizar o LET. Vamos utlizar o seguinte exemplo:
+  Para declarar uma constante basta utilizar o LET. Vamos utilizar o seguinte exemplo:
   
   let nome = "Paulo" 
 
