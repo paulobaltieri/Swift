@@ -3,6 +3,12 @@ Ao tentar alterar o valor de uma constante, será exibido um erro.
 Obs.:O swift utiliza o LET como constante.
 ex:
 */ 
+let explicacao = """
+  Para declarar uma constante basta utlizar o LET. Vamos utlizar o seguinte exemplo:
+  
+  let nome = "Paulo" 
 
-let nome = "Paulo"
-print(nome)
+  pronto!
+  Declaramos nossa primeira constante :D
+  """ 
+print(explicacao)
