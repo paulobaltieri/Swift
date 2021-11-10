@@ -11,7 +11,7 @@ var explicacao = """
   Agora vamos verificar se realmente funcionou.
 
   var nome = "Paulo"
-  print ("nome")
+  print("nome")
 
   pronto! funcionou!
   Acabamos de declarar nossa primeira variavel :D

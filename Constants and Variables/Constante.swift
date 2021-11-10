@@ -12,7 +12,7 @@ let explicacao = """
   Agora vamos verificar se realmente funcionou.
   
   const nome = "Paulo"
-  print ("nome")
+  print("nome")
 
   pronto! funcionou!
   Acabamos de declarar nossa primeira constante :D
