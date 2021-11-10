@@ -7,7 +7,7 @@ var explicacao = """
   
   var nome = "Paulo" 
 
-  A variável nome acabou de armazenar um dado.
+  A variável nome acabou de receber um valor e armazena-lo.
   Agora vamos verificar se realmente funcionou.
 
   var nome = "Paulo"
