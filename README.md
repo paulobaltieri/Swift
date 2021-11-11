@@ -9,10 +9,10 @@ Variaveis
   * Var;
   
 Tipos de variaveis
-    * String
-    * Int
-    * Float
-    * Double
-    * Float
+  * String
+  * Int
+  * Float
+  * Double
+  * Float
 
 
