@@ -8,7 +8,7 @@ Variaveis
   * Const;
   * Var;
   
-- Tipos de variaveis
+Tipos de variaveis
     * String
     * Int
     * Float
