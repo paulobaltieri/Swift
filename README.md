@@ -2,8 +2,6 @@
 
 Estarei documentado todo o meu progresso  com o estudo da linguagem Swift.
 
-## Básico:
-
 ## Variaveis:
   * Const
   * Var
@@ -16,4 +14,4 @@ Estarei documentado todo o meu progresso  com o estudo da linguagem Swift.
   * Float
 
 ## Set:
-
+  * Funcionalidades do Set
