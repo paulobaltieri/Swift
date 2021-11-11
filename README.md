@@ -5,8 +5,8 @@ Estarei documentado todo o meu progresso  com o estudo da linguagem Swift.
 Básico:
 
 Variaveis:
-  * Const;
-  * Var;
+  * Const
+  * Var
   
 Tipos de variaveis:
   * String
