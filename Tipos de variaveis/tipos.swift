@@ -1,16 +1,16 @@
-  /* Existem 4 tipos de variaveis: String, int, float,boolean, double */
+  /* Existem 4 tipos de variáveis: String, Int, Float,Boolean, Double. */
 
-/*String: Esse tipo de variavel receberá apenas valores do tipo texto. 
+/*String: Esse tipo de variável receberá apenas valores do tipo texto. 
 
-  Int: Esse tipo de variavel receberá apenas valoros do tipo inteiro.
+  Int: Esse tipo de variável receberá apenas valores do tipo inteiro.
 
-  Float: Variaveis do tipo float recebem apenas numeros decimais, mas pelo fato de ser limitado, não é muito utilizado.
+  Float: Variáveis do tipo float recebem apenas números decimais, mas pelo fato de ser limitado (32-bit), não é muito utilizado.
 
-  Boolean: Esse tipo de variavel recebe apenas 1 de dois valores, True ou False.
+  Boolean: Esse tipo de variável recebe apenas 1 de dois valores, True ou False.
 
-  Double: Essa variavel tambem trabalha com numeros deciamsi, mas pelo fato de possuir um numero de casas decimais maior, é o mais utlizado.
+  Double: Essa variável também trabalha com números decimais, mas pelo fato de possuir um número de casas decimais maior (64-bit), é o mais utilizado.
 
-Obs: dependendo do valor, o swift consegue determinar o tipo de variavel que você deseja trabalhar.
+Obs: dependendo do valor, o swift consegue determinar o tipo de variável que você está trabalhando.
 
     - tipo String
     let nome = "Paulo"
@@ -30,19 +30,19 @@ Obs: dependendo do valor, o swift consegue determinar o tipo de variavel que voc
 */
 
 let explicacao = """
-  Existem 4 tipos de variaveis: String, int, float,boolean, double.
+  Existem 4 tipos de variáveis: String, int, float,boolean, double.
 
-  String: Esse tipo de variavel receberá apenas valores do tipo texto
+  String: Esse tipo de variável receberá apenas valores do tipo texto.
 
-  Int: Esse tipo de variavel receberá apenas valoros do tipo inteiro.
+  Int: Esse tipo de variável receberá apenas valores do tipo inteiro.
 
-  Float: Variaveis do tipo float recebem apenas numeros decimais, mas pelo fato de ser limitado (32-bit), não é muito utilizado.
+  Float: variáveis do tipo float recebem apenas números decimais, mas pelo fato de ser limitado (32-bit), não é muito utilizado.
 
-  Boolean: Esse tipo de variavel recebe apenas 1 de dois valores, True ou False.
+  Boolean: Esse tipo de variável recebe apenas 1 de dois valores, True ou False.
 
-  Double: Essa variavel tambem trabalha com numeros deciamsi, mas pelo fato de possuir um numero de casas decimais maior (64-bit), é o mais utlizado.
+  Double: Essa variável também trabalha com números decimais, mas pelo fato de possuir um número de casas decimais maior (64-bit), é o mais utilizado.
 
-  Obs: dependendo do valor, o swift consegue determinar o tipo de variavel que você deseja trabalhar.
+  Obs: dependendo do valor, o swift consegue determinar o tipo de variável que você está trabalhando.
 
       - tipo String
     let nome = "Paulo"
