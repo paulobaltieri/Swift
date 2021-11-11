@@ -22,7 +22,7 @@ Obs: dependendo do valor, o swift consegue determinar o tipo de variavel que voc
 
     - tipo Float
     let valor = 3.50
-    let valor: Float = 3,50
+    let valor: Float = 3.50
 
     - tipo Double
     let pi = 3.5454854845418484
@@ -54,7 +54,7 @@ let explicacao = """
 
     - tipo Float
     let valor = 3.50
-    let valor: Float = 3,50
+    let valor: Float = 3.50
 
     - tipo Double
     let pi = 3.5454854845418484
