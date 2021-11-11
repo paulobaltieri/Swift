@@ -36,11 +36,11 @@ let explicacao = """
 
   Int: Esse tipo de variavel receberá apenas valoros do tipo inteiro.
 
-  Float: Variaveis do tipo float recebem apenas numeros decimais, mas pelo fato de ser limitado, não é muito utilizado.
+  Float: Variaveis do tipo float recebem apenas numeros decimais, mas pelo fato de ser limitado (32-bit), não é muito utilizado.
 
   Boolean: Esse tipo de variavel recebe apenas 1 de dois valores, True ou False.
 
-  Double: Essa variavel tambem trabalha com numeros deciamsi, mas pelo fato de possuir um numero de casas decimais maior, é o mais utlizado.
+  Double: Essa variavel tambem trabalha com numeros deciamsi, mas pelo fato de possuir um numero de casas decimais maior (64-bit), é o mais utlizado.
 
   Obs: dependendo do valor, o swift consegue determinar o tipo de variavel que você deseja trabalhar.
 
