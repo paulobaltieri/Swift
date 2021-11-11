@@ -15,3 +15,6 @@ Estarei documentado todo o meu progresso  com o estudo da linguagem Swift.
 
 ## Set:
   * Funcionalidades do Set
+
+## Tuplas:
+  * Funcionalidades da Tupla
