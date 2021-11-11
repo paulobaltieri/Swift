@@ -2,18 +2,18 @@
 
 Estarei documentado todo o meu progresso  com o estudo da linguagem Swift.
 
-# Básico:
+###### Básico:
 
-## Variaveis:
+###### Variaveis:
   * Const
   * Var
   
-## Tipos de variaveis:
+###### Tipos de variaveis:
   * String
   * Int
   * Float
   * Double
   * Float
 
-## Set:
+###### Set:
 
