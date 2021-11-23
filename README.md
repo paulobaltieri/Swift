@@ -12,6 +12,8 @@ Estarei documentado todo o meu progresso  com o estudo da linguagem Swift.
   * Float
   * Double
   * Float
+## Condicionais:
+  * if else
 
 ## Set:
   * Funcionalidades do Set
