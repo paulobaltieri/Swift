@@ -1,8 +1,6 @@
-let pessoa1 = "Paulo"
-let pessoa2 = "Diego"
-let pessoa3 = "Debora"
-let person = "Paulo"
+let produto = 20
+let carteira = 110
 
-let familia:Set = [person,pessoa1,pessoa2,pessoa3]
+let compra = carteira > produto ? "Saldo suficiente para compra!" : "Saldo insuficiente para compra!"
 
-print(familia)
+print(compra)

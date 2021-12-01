@@ -12,11 +12,15 @@ Estarei documentado todo o meu progresso  com o estudo da linguagem Swift.
   * Float
   * Double
   * Float
+
 ## Condicionais:
   * if else
 
+## Operador Ternario:
+  * Funcionalidades do operador ternario.
+  
 ## Set:
-  * Funcionalidades do Set
+  * Funcionalidades do Set.
 
 ## Tuplas:
-  * Funcionalidades da Tupla
+  * Funcionalidades da Tupla.
