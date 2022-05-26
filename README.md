@@ -3,9 +3,11 @@
 Estarei documentado todo o meu progresso  com o estudo da linguagem Swift.
 
 ## Variaveis:
-  * Const
+  * let
   * Var
   
+## Variaveis OPCIONAIS:
+
 ## Tipos de variaveis:
   * String
   * Int
